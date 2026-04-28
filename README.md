@@ -164,13 +164,8 @@ When new data arrives, run **Step 7 (Incremental Update)** in the notebook. It a
 - Raw CSV files are excluded from the repository (too large)
 - Get a free Groq API key at [console.groq.com](https://console.groq.com)
 
----
 
-## 👥 Authors
 
-- MrGoofyDuck
-
----
 
 ## 📄 License
 
